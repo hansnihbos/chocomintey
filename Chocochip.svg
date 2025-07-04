@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 89.19 17.73">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8a6154;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect class="cls-1" x="81.4" y="4.43" width="1.74" height=".98" rx=".41" ry=".41" transform="translate(17.75 -46.36) rotate(35.05)"/>
+    <rect class="cls-1" x="61.24" y="16.52" width="1.25" height=".98" rx=".37" ry=".37" transform="translate(-.22 33.21) rotate(-30)"/>
+    <rect class="cls-1" x="51.6" y="15.52" width="1.25" height=".98" rx=".37" ry=".37" transform="translate(19.05 -27.39) rotate(35.56)"/>
+    <rect class="cls-1" x="85.56" y="10.8" width="1.25" height=".98" rx=".37" ry=".37" transform="translate(22.64 -48.02) rotate(35.56)"/>
+    <rect class="cls-1" x="88" y="7.26" width="1.25" height=".98" rx=".37" ry=".37" transform="translate(55.86 90.46) rotate(-73.38)"/>
+    <rect class="cls-1" x="49.75" y="-.01" width=".86" height=".98" rx=".31" ry=".31" transform="translate(35.38 48.43) rotate(-73.38)"/>
+    <rect class="cls-1" x="33.25" y="16.51" width=".86" height=".98" rx=".31" ry=".31" transform="translate(7.76 44.41) rotate(-73.38)"/>
+    <rect class="cls-1" x="34.22" y=".54" width=".86" height=".98" rx=".31" ry=".31" transform="translate(23.76 33.93) rotate(-73.38)"/>
+    <rect class="cls-1" x="70.6" y="16.77" width=".86" height=".98" rx=".31" ry=".31" transform="translate(34.18 80.39) rotate(-73.38)"/>
+    <rect class="cls-1" x="67.57" y=".21" width="1.25" height=".98" rx=".37" ry=".37" transform="translate(48.03 65.84) rotate(-73.38)"/>
+    <rect class="cls-1" x="80.31" y="13.15" width="1.25" height=".98" rx=".37" ry=".37" transform="translate(-1.1 11.14) rotate(-7.82)"/>
+    <rect class="cls-1" x="7.43" y="16.36" width="1.25" height=".98" rx=".37" ry=".37" transform="translate(-7.35 6.28) rotate(-30)"/>
+    <rect class="cls-1" x="9.64" y="1.21" width=".59" height=".46" rx=".17" ry=".17" transform="translate(.61 5.16) rotate(-30)"/>
+    <rect class="cls-1" x=".02" y="15.07" width="1.25" height=".98" rx=".37" ry=".37" transform="translate(9.17 2.53) rotate(35.56)"/>
+    <rect class="cls-1" x="15.06" y=".56" width=".86" height=".67" rx=".25" ry=".25" transform="translate(1.63 7.86) rotate(-30)"/>
+    <rect class="cls-1" x="1.02" y="2.97" width=".86" height=".67" rx=".25" ry=".25" transform="translate(2.19 -.23) rotate(35.56)"/>
+    <rect class="cls-1" x="18.59" y="16.07" width=".86" height=".67" rx=".25" ry=".25" transform="translate(13.09 -8) rotate(35.56)"/>
+  </g>
+</svg>
