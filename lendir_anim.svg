@@ -41,9 +41,10 @@
       .cls-10 {
         clip-path: url(#clippath);
       }
-     .kanan {
+            .kanan {
               transform: translateX(0px);
-              animation: drip 1.5s ease-in-out infinite;
+              animation: drip 3s ease-in-out infinite;
+              animation-delay: 1s;
               transform-origin: top center;
             }
             .kiri {
@@ -55,15 +56,16 @@
 
             @keyframes drip {
               0% {
-                transform: translateY(0) scaleY(1);
-                opacity: 1;
+                transform: translateY(-20px) scaleY(1);
+                opacity: 0;
               }
-              50% {
-                transform: translateY(10px) scaleY(1.2);
+              80% {
+                transform: translateY(-10px) scaleY(1.2);
+                opacity: 0.5;
               }
               100% {
-                transform: translateY(20px) scaleY(0.6);
-                opacity: 0;
+                transform: translateY(0px) scaleY(1);
+                opacity: 1;
               }
             }
     </style>
